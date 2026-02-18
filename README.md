@@ -257,14 +257,7 @@ Finds commands related to a keyword.
 
 ---
 
-## 💡 Notes
 
-- Practice commands regularly.
-- Be careful when deleting files.
-- Permissions are very important in security.
-- Linux skills are essential for Cloud, DevOps, and Cybersecurity.
 
----
-
-⭐ Created while learning Linux for Cloud, DevOps, and Cybersecurity.
+⭐ Created while learning Linux for Cybersecurity.
 
